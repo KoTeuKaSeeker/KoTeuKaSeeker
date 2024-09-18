@@ -28,7 +28,7 @@
 
 <br>
 
-### 📚 My Opensource Projects
+### 📚 My Projects
 | Repository                                                                                | Description                                        |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | [DialogLLM](https://github.com/KoTeuKaSeeker/DialogLLM)                                  | LLM who can conduct simple life dialogues.|
