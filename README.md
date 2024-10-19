@@ -33,6 +33,7 @@
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | [DialogLLM](https://github.com/KoTeuKaSeeker/DialogLLM)                                  | LLM who can conduct simple life dialogues.|
 | [CatDiffuion](https://github.com/KoTeuKaSeeker/diffusion-model)                          | A diffuse model that generates images of cats.|
+| [CropPrediction](https://github.com/KoTeuKaSeeker/crop-prediction)                          | Regression transformer for predicting time series of weather station parameters.|
 | [LaneLineDetection](https://github.com/SpectreSpect/lane-lines-detection)                       | Model for recognizing road marking lines.|
 <br>
 
